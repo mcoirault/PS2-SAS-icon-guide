@@ -22,7 +22,7 @@ The files required to make an icon are:
 ![Delete app](images/ps2_browser_del.jpg?raw=true "Delete app")
 
 ## Creating `icon.sys`
-[iconsys_builder.exe](tools\ps2iconsys\iconsys_builder.exe) is a command line tool that lets you create a `icon.sys`. With the same tool, you can also edit an existing `icon.sys`.  
+[iconsys_builder.exe](tools/ps2iconsys/iconsys_builder.exe) is a command line tool that lets you create a `icon.sys`. With the same tool, you can also edit an existing `icon.sys`.  
 `.\iconsys_builder.exe -h` shows the help.  
 `.\iconsys_builder.exe -o icon.sys --set-title "Sample App" --set-icon list.icn --set-copy-icon copy.icn --set-delete-icon del.icn` will create a basic icon.sys.
 
@@ -50,7 +50,7 @@ The delete and copy icon can use the same model, but the texture needs to be mod
 
 ![Icon Set](images/icon_set.png?raw=true "Icon Set")
 
-The easiest way to do this is to open the texture in Gimp, and add a 50% opacity overlay on top the memory card texure. For the delete texture, fill the overlay with #B7140F. For the copy texture, fill the overlay with #16B70F.
+The easiest way to do this is to open the texture in Gimp, and add a 50% opacity overlay on top the memory card texure. For the delete texture, fill the overlay with `#B7140F`. For the copy texture, fill the overlay with `#16B70F`.
 
 ![Indicator Overlay](images/indicator_overlay.png?raw=true "Indicator Overlay")
 
