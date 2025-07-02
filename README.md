@@ -68,7 +68,7 @@ To convert to the PS2 format, use Milkshape 3D. It is available [here](http://mi
 
 You also need to install a milkshape 3D plugin to enable exporting PS2 icons. To do so, grab the 2 .dll ([msPs2Exporter.dll](tools/ps2icon-plugin/msPs2Exporter.dll) and [msPs2Importer.dll](tools/ps2icon-plugin/msPs2Importer.dll)), and copy them at the root of the Milkshape install folder (by default `C:\Program Files (x86)\MilkShape 3D 1.8.4`).
 
-### Convert the .ojb
+### Convert the .obj
 /!\ Make sure there is no .mtl files in your folder.
 
 Hit `File -> Import -> Wavefront OBJ...` to import your fresh .obj file. You should see your model appear without any texture.
