@@ -1,0 +1,11 @@
+Model Information:
+* title:	Love Low Poly
+* source:	https://sketchfab.com/3d-models/love-low-poly-dd3b881a34904991878dc6a5a05aa1f6
+* author:	VARRRG (https://sketchfab.com/VladislavFehu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Love Low Poly" (https://sketchfab.com/3d-models/love-low-poly-dd3b881a34904991878dc6a5a05aa1f6) by VARRRG (https://sketchfab.com/VladislavFehu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
